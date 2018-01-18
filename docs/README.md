@@ -1,1 +1,1 @@
-## Botjakten webbplats
+#BOTJAKTEN FAQ
