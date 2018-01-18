@@ -16,4 +16,4 @@ So far, only initial tests have been performed. What can be found so far is for 
 It is yet too early to say anything about the origin and rationale behind the activities of these porn bots. It is tempting to assume that it is an orchestrated move to establish a botnet on parts of Twitter, for instance to make a coordinated move related to spam links or to influence a wider population in political events. At this point it is however to be considered just as likely that the porn bots are just that – porn bots.
 
 ## Who?
-#Botjakten is a project managed by a number of individuals. Some are academic researchers, some archivists, some data journalists. If you want to reach out to us, please send a tweet to @asegerberg, @intensifier or @dekaminski on Twitter. Most of the communication will however be presented here.
+#Botjakten is a project managed by a number of individuals. Some are academic researchers, some archivists, some data journalists. If you want to reach out to us, please send a tweet to @asegerberg, @intensifier., @peterkz_swe or @dekaminski on Twitter. Most of the communication will however be presented here.
