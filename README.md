@@ -12,7 +12,7 @@ So far, only initial tests have been performed. What can be found so far is for 
 -	Many of the porn bots seem to have been registered as Twitter users several years ago, with a specific cluster registered around 2011. It is still too early to make anything out of this, but a theory is that some of the porn bots are legitimate Twitter accounts that have been hacked while some are registered for the sole purpose of being part of different botnets.
 -	Most of the porn bots have profile pictures (and also shared images) relating to a small number of actresses in porn. Most likely the people portrayed have nothing to do with the bot activity.
 
-<img alt="Many accounts were created several years ago" src="https://raw.githubusercontent.com/Segerberg/botjakten/master/visualisations/no_of_accounts_by_created_year.png" width="50%" height="50%"/>
+<img align="left" alt="Many accounts were created several years ago" src="https://raw.githubusercontent.com/Segerberg/botjakten/master/visualisations/no_of_accounts_by_created_year.png" width="50%" height="50%"/>
 <img alt="Many accounts were created several years ago" src="https://raw.githubusercontent.com/Segerberg/botjakten/master/visualisations/indegree.png" width="50%" height="50%"/>
 
 
