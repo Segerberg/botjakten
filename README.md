@@ -13,6 +13,8 @@ So far, only initial tests have been performed. What can be found so far is for 
 -	Most of the porn bots have profile pictures (and also shared images) relating to a small number of actresses in porn. Most likely the people portrayed have nothing to do with the bot activity.
 
 <img alt="Many accounts were created several years ago" src="https://raw.githubusercontent.com/Segerberg/botjakten/master/visualisations/no_of_accounts_by_created_year.png" width="50%" height="50%"/>
+<img alt="Many accounts were created several years ago" src="https://raw.githubusercontent.com/Segerberg/botjakten/master/visualisations/indegree.png" width="50%" height="50%"/>
+
 
 ## Is there more?
 It is yet too early to say anything about the origin and rationale behind the activities of these porn bots. It is tempting to assume that it is an orchestrated move to establish a botnet on parts of Twitter, for instance to make a coordinated move related to spam links or to influence a wider population in political events. At this point it is however to be considered just as likely that the porn bots are just that – porn bots.
