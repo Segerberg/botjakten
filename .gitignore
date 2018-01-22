@@ -1,6 +1,6 @@
 dataanalysis/porrtweets.sqlite3
 scraperscripts/porrtweets.sqlite3
-
+scraperscripts/pornbots.db
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
