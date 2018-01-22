@@ -13,17 +13,26 @@ So far, only initial tests have been performed. What can be found so far is for 
 * Many of the porn bots seem to have been registered as Twitter users several years ago, with a specific cluster registered around 2011. It is still too early to make anything out of this, but a theory is that some of the porn bots are legitimate Twitter accounts that have been hacked while some are registered for the sole purpose of being part of different botnets.
 * Most of the porn bots have profile pictures (and also shared images) relating to a small number of actresses in porn. Most likely the people portrayed have nothing to do with the bot activity.
 
-<figure style="text-align:center;width:100%">
+<div style="text-align:center;width:80%">
+
+<figure>
 <img align="left" alt="Many accounts were created several years ago" src="https://raw.githubusercontent.com/Segerberg/botjakten/master/visualisations/no_of_accounts_by_created_year.png" width="100%" height="100%"/>
   <figcaption style="font-size:smaller;font-style:italic">Spam accounts by year they were created. Older accounts may have been taken over by spammers as they typically have valid older content.</figcaption>
 </figure>
 
-<img alt="Many accounts were created several years ago" src="https://raw.githubusercontent.com/Segerberg/botjakten/master/visualisations/indegree.png" width="40%" height="40%"/>
+
+<figure style="text-align:center;width:100%">
+<img alt="Many accounts were created several years ago" src="https://raw.githubusercontent.com/Segerberg/botjakten/master/visualisations/indegree.png" width="100%" height="100%"/>
+  <figcaption style="font-size:smaller;font-style:italic">Indegree network. Larger nodes mean more incoming @-tweets from the spam bots, which may be interpreted as bot targets.</figcaption>
+</figure>
+
 
 <figure style="text-align:center;width:100%">
 <a href="https://github.com/Segerberg/botjakten/blob/master/visualisations/botjakten_sankey_37K_se_sv.png"><img alt="Spam site targets via redirects" src="https://raw.githubusercontent.com/Segerberg/botjakten/master/visualisations/botjakten_sankey_37K_se_sv.png" width="100%" height="100%"/></a>
   <figcaption style="font-size:smaller;font-style:italic">Spam bot profile links and their destinations. Via obscure link shorteners users are directed to questionnaire websites that in turn lead users to one of two sex dating websites.</figcaption>
 </figure>
+
+</div>
 
 ## Is there more?
 It is yet too early to say anything about the origin and rationale behind the activities of these porn bots. It is tempting to assume that it is an orchestrated move to establish a botnet on parts of Twitter, for instance to make a coordinated move related to spam links or to influence a wider population in political events. At this point it is however to be considered just as likely that the porn bots are just that – porn bots.
