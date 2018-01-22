@@ -17,7 +17,7 @@ So far, only initial tests have been performed. What can be found so far is for 
 
 <img alt="Many accounts were created several years ago" src="https://raw.githubusercontent.com/Segerberg/botjakten/master/visualisations/indegree.png" width="40%" height="40%"/>
 
-<figure style="width:80%">
+<figure style="text-align:center;width:80%">
 <a href="https://github.com/Segerberg/botjakten/blob/master/visualisations/botjakten_sankey_37K_se_sv.png"><img alt="Spam site targets via redirects" src="https://raw.githubusercontent.com/Segerberg/botjakten/master/visualisations/botjakten_sankey_37K_se_sv.png" width="90%" height="90%"/></a>
   <figcaption>Spam bot profile links and their destinations. Via obscure link shorteners users are directed to questionnaire websites that in turn lead users to one of two sex dating websites.</figcaption>
 </figure>
