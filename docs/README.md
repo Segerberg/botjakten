@@ -23,7 +23,7 @@ So far, only initial tests have been performed. What can be found so far is for 
 
 <figure style="text-align:center;width:100%">
 <img alt="Many accounts were created several years ago" src="https://raw.githubusercontent.com/Segerberg/botjakten/master/visualisations/indegree.png" width="100%" height="100%"/>
-  <figcaption style="font-size:smaller;font-style:italic">Indegree network. Larger nodes mean more incoming @-tweets from the spam bots, which may be interpreted as bot targets.</figcaption>
+  <figcaption style="font-size:smaller;font-style:italic">Analysis of the most recent 100 spam bot tweets. In-degree network based on @-tweets. Larger nodes mean more incoming @-tweets, which may be interpreted as bot targets.</figcaption>
 </figure>
 
 
