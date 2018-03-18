@@ -2,5 +2,5 @@
 # URL and final domain name separated by a comma.
 URL=$1
 printf "${URL}, "
-EXPANDURL=$(curl -Ls -o /dev/null -w %{url_effective} ${URL}|awk -F/ '{print $3}')
+EXPANDURL=$(curl -Ls -o /dev/null -w %{url_effective} "${URL}"|awk -F/ '{print $3}')
 printf "${EXPANDURL}\n"
